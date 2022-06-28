@@ -68,7 +68,7 @@ INSERT INTO SpotifyClone.albums(album, artista_id, lancamento)
 VALUES
 ("Envious", 1, 1990),
 ("Exuberant", 1, 1993),
-("Hellowed Steam", 2, 1995),
+("Hallowed Steam", 2, 1995),
 ("Incandescent", 3, 1998),
 ("Temporary Culture", 4, 2001),
 ("Library of liberty", 4, 2003),

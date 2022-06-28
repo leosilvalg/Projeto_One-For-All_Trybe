@@ -1,7 +1,7 @@
 select 
-	a.artista as 'artista',
-    b.album as 'album',
-    count(c.artista_id) as 'seguidores'
+a.artista as 'artista',
+b.album as 'album',
+count(c.artista_id) as 'seguidores'
 from SpotifyClone.artistas as a
 inner join SpotifyClone.albums as b
 on a.artista_id = b.artista_id
